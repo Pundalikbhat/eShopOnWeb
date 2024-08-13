@@ -9,7 +9,7 @@ env:
   LOCATION: "southindia"
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 127dd7ae-82b5-4c96-8fd8-c5706f99b71f
-  WEBAPP-NAME: eshoponweb-webapp-NAME
+  WEBAPP-NAME: eshoponweb-webapp-BHAT
 
 
 jobs:
